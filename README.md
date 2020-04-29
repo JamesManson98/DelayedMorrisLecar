@@ -27,6 +27,8 @@ Add 'Morris-Lecar' folder to demos folder in DDEBiftool.
 
 **Long_contination_kappa_tau**: The continuation of the curve of Hopf bifurcations up to Kappa=600.
 
+**Maple_gen_mysys**: Generates the system files required to use DDEBiftool.
+
 **myfuncs, rhs, setDefaultParameters, sys_deri, sys_dtau, sys_mfderi, sys_rhs, sys_rhs_dde23**: System files required to use DDEBiftool and DDE23. Also for computation of steady state solutions of the system and setting of parameters.
 
 **One_Kappa_POs_15, One_Kappa_POs_45, One_Kappa_POs_85**: Plotting of branches of periodic orbits emerging from the Hopf points close to kappa = 15, 45, and 85 respectively.
